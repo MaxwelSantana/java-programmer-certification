@@ -1,0 +1,9 @@
+Lado esquerdo resposta correta, lado direito minha resposta.
+1) D;D --------------- OK
+2) C and D;C and D --- OK
+3) A;C --------------- ERRADA
+4) B;B --------------- OK
+5) C;B --------------- ERRADA
+6) B;B --------------- OK
+7) D;C --------------- ERRADA
+8) C;C --------------- OK
